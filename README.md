@@ -367,6 +367,9 @@ Entry Gate: CLOSED
 
 The onboard LED connected to **PB3** turns **ON** when the parking area is full.
 
+<img width="977" height="450" alt="image" src="https://github.com/user-attachments/assets/39401d2c-4789-4644-9c47-45ae7751e0f2" />
+
+
 ---
 
 ## Working
